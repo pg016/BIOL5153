@@ -22,3 +22,5 @@ Assn_05_Added
 Python_Script_Added_nucleotide_composition.py
 
 Assn_06_Added_parse_GFF.py
+
+Assn_07_Q1Added
